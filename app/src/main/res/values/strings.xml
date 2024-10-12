@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Super Mini Calculadora</string>
+    <string name="n_mero_1">Número 1:</string>
+    <string name="Botonmas">+</string>
+    <string name="Botonmenos">-</string>
+    <string name="Botonmultiplicar">x</string>
+    <string name="Botondividir">/</string>
+    <string name="borrar">BORRAR</string>
+    <string name="introduzca_un_n_mero_entero">Introduzca un número entero</string>
+    <string name="n_mero_2">Número 2:</string>
+    <string name="introduzca_un_n_mero_entero1">Introduzca un número entero</string>
+</resources>
